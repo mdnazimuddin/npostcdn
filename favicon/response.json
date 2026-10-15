@@ -1,0 +1,14 @@
+{
+  "data": {
+    "MCQ": {
+      {
+        "Q1": "What Is Your Name?",
+        "Options": {
+          "Option 1": "Nazim",
+          "Option 2": "Tohidul",
+          "Option 3": "Nihan"
+        }
+      }
+    }
+  }
+}
